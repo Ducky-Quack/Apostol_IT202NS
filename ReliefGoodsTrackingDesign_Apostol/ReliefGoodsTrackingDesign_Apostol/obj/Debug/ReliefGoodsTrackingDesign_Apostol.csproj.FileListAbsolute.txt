@@ -1,0 +1,11 @@
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\bin\Debug\ReliefGoodsTrackingDesign_Apostol.exe.config
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\bin\Debug\ReliefGoodsTrackingDesign_Apostol.exe
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\bin\Debug\ReliefGoodsTrackingDesign_Apostol.pdb
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\obj\Debug\ReliefGoodsTrackingDesign_Apostol.csproj.AssemblyReference.cache
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\obj\Debug\ReliefGoodsTrackingDesign_Apostol.Form1.resources
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\obj\Debug\ReliefGoodsTrackingDesign_Apostol.Properties.Resources.resources
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\obj\Debug\ReliefGoodsTrackingDesign_Apostol.csproj.GenerateResource.cache
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\obj\Debug\ReliefGoodsTrackingDesign_Apostol.csproj.CoreCompileInputs.cache
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\obj\Debug\ReliefGoodsTrackingDesign_Apostol.exe
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\obj\Debug\ReliefGoodsTrackingDesign_Apostol.pdb
+C:\Users\C302-34.C302-34.000\source\repos\ReliefGoodsTrackingDesign_Apostol\ReliefGoodsTrackingDesign_Apostol\obj\Debug\ReliefGoodsTrackingDesign_Apostol.exe.config
