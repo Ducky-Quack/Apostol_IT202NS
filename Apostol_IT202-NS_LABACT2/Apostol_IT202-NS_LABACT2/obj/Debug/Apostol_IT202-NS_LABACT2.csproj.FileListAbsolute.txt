@@ -1,0 +1,11 @@
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\bin\Debug\Apostol_IT202-NS_LABACT2.exe.config
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\bin\Debug\Apostol_IT202-NS_LABACT2.exe
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\bin\Debug\Apostol_IT202-NS_LABACT2.pdb
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\obj\Debug\Apostol_IT202-NS_LABACT2.csproj.AssemblyReference.cache
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\obj\Debug\Apostol_IT202_NS_LABACT2.Properties.Resources.resources
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\obj\Debug\Apostol_IT202-NS_LABACT2.csproj.GenerateResource.cache
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\obj\Debug\Apostol_IT202-NS_LABACT2.csproj.CoreCompileInputs.cache
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\obj\Debug\Apostol_IT202-NS_LABACT2.exe
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\obj\Debug\Apostol_IT202-NS_LABACT2.pdb
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\obj\Debug\Apostol_IT202-NS_LABACT2.exe.config
+C:\Users\C302-37.C302-37\Desktop\Apostol_IT202-NS_LABACT2\Apostol_IT202-NS_LABACT2\obj\Debug\Apostol_IT202_NS_LABACT2.Form1.resources
